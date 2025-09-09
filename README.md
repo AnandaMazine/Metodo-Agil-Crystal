@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD
-  subgraph Matriz
+  subgraph Exercício 01
     A1["Situação 1 C8"]:::branco --> A2["D20"]:::amarelo --> A3["E50"]:::laranja --> A4["V100"]:::vermelho
     B1["C8"]:::branco --> B2["Situação 2 D20"]:::amarelo --> B3["E50"]:::laranja --> B4["V100"]:::vermelho
     C1["C8"]:::branco --> C2["D20"]:::amarelo --> C3["E50"]:::laranja --> C4["Situação 3 V100"]:::vermelho
