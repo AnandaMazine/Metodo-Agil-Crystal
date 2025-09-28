@@ -1,3 +1,18 @@
+TechConnect Solutions
+graph TD
+  subgraph Crystal Clear – Entregas Parciais
+    E1["Entrega 1\nLogin (Semana 3)"]:::verde --> E2["Entrega 2\nCRUD (Semana 6)"]:::azul --> E3["Entrega 3\nUpload Logotipo (Semana 8)"]:::laranja --> E4["Entrega 4\nRelatórios PDF/Excel (Semana 10)"]:::amarelo --> E5["Entrega 5\nPainel Admin (Semana 12)"]:::roxo --> EF["Entrega Final\nSistema Completo (Mês 6)"]:::vermelho
+  end
+
+  %% Definições de estilo
+  classDef verde fill:#4CAF50,stroke:#000,stroke-width:1px;
+  classDef azul fill:#2196F3,stroke:#000,stroke-width:1px;
+  classDef laranja fill:#FFA500,stroke:#000,stroke-width:1px;
+  classDef amarelo fill:#FFD700,stroke:#000,stroke-width:1px;
+  classDef roxo fill:#9C27B0,stroke:#000,stroke-width:1px;
+  classDef vermelho fill:#E64C3C,stroke:#000,stroke-width:1px;
+
+
 # Metodo-Agil-Crystal
 
 ```mermaid
