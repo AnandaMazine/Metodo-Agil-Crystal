@@ -12,7 +12,7 @@ graph TD
     E8["Entrega 5 - Painel Admin - Semana 12 - D"]:::vermelho
     E9["Entrega Final - Sistema Completo - Semana 24 - V"]:::vermelho
 
-    E1 --> E2 --> E3 --> E4 -> E5 --> E6 --> E7 --> E8 --> E9
+    E1 --> E2 --> E3 --> E4 --> E5 --> E6 --> E7 --> E8 --> E9
 
 %% Definições de estilo
 classDef branco fill:#ffffff,stroke:#000,stroke-width:1px;
