@@ -2,14 +2,17 @@
 
 ```mermaid
 graph TD
-    E1["Entrega 1 - Login - Semana 3 - E"]:::branco
-    E2["Entrega 2 - CRUD - Semana 6 - C"]:::amarelo
-    E3["Entrega 3 - Upload - Semana 8 - C"]:::laranja
-    E4["Entrega 4 - Relatórios - Semana 10 - E"]:::laranja
-    E5["Entrega 5 - Painel Admin - Semana 12 - D"]:::vermelho
-    EF["Entrega Final - Sistema Completo - Mês 6 - V"]:::vermelho
+    E1["Levantamento de Requisitos"]:::branco
+    E2["Documentação Funcional"]:::branco
+    E3["Layout do Sistema"]:::branco
+    E4["Entrega 1 - Login - Semana 3 - E"]:::branco
+    E5["Entrega 2 - CRUD - Semana 6 - C"]:::amarelo
+    E6["Entrega 3 - Upload - Semana 8 - C"]:::laranja
+    E7["Entrega 4 - Relatórios - Semana 10 - E"]:::laranja
+    E8["Entrega 5 - Painel Admin - Semana 12 - D"]:::vermelho
+    E9["Entrega Final - Sistema Completo - Mês 6 - V"]:::vermelho
 
-    E1 --> E2 --> E3 --> E4 --> E5 --> EF
+    E1 --> E2 --> E3 --> E4 --> E5 --> E6 --> E7 --> E8 --> E9
 
 %% Definições de estilo
 classDef branco fill:#ffffff,stroke:#000,stroke-width:1px;
