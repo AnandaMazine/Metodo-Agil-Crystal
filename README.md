@@ -14,6 +14,7 @@ graph TD
   classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
   classDef laranja fill:#FFA233,stroke:#000,stroke-width:1px;
   classDef vermelho fill:#E64C3C,stroke:#000,stroke-width:1px;
+```
 
 
 # Metodo-Agil-Crystal
