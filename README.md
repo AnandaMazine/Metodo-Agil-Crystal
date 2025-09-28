@@ -10,11 +10,6 @@ graph TD
     UI["Designer de Interface"]
     QA["Tester (QA)"]
 
-    %% Atividades iniciais
-    LR["Levantamento de Requisitos"]:::branco
-    DF["Documentação Funcional"]:::branco
-    LAYOUT["Layout do Sistema"]:::branco
-
     %% Entregas
     E1["Entrega 1 - Login - Semana 3 - E"]:::branco
     E2["Entrega 2 - CRUD - Semana 6 - C"]:::amarelo
@@ -23,14 +18,8 @@ graph TD
     E5["Entrega 5 - Painel Admin - Semana 12 - D"]:::vermelho
     EF["Entrega Final - Sistema Completo - Mês 6 - V"]:::vermelho
 
-    %% Fluxo das atividades e entregas
-    LR --> DF --> LAYOUT --> E1
+    %% Fluxo das entregas
     E1 --> E2 --> E3 --> E4 --> E5 --> EF
-
-    %% Responsáveis por atividade
-    GP --> LR
-    AS --> DF
-    UI --> LAYOUT
 
     %% Responsáveis por entrega
     GP --> E1
@@ -49,7 +38,7 @@ classDef branco fill:#ffffff,stroke:#000,stroke-width:1px;
 classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
 classDef laranja fill:#FFA233,stroke:#000,stroke-width:1px;
 classDef vermelho fill:#E64C3C,stroke:#000,stroke-width:1px;
-classDef azul fill:#33BFFF,stroke:#000,stroke-width:1px;
+
 
 
 ```
