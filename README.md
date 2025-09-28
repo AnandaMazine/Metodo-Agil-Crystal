@@ -1,12 +1,12 @@
 # TechConnect Solutions
 graph TD
   subgraph Crystal Clear – Entregas Parciais
-    E1["Entrega 1\nLogin (Semana 3)\nE"]:::branco --> 
-    E2["Entrega 2\nCRUD (Semana 6)\nC"]:::amarelo --> 
-    E3["Entrega 3\nUpload Logotipo (Semana 8)\nC"]:::laranja --> 
-    E4["Entrega 4\nRelatórios PDF/Excel (Semana 10)\nE"]:::laranja --> 
-    E5["Entrega 5\nPainel Admin (Semana 12)\nD"]:::vermelho --> 
-    EF["Entrega Final\nSistema Completo (Mês 6)\nV"]:::vermelho
+    E1["Entrega 1 (Login - Semana 3 - E)"]:::branco --> 
+    E2["Entrega 2 (CRUD - Semana 6 - C)"]:::amarelo --> 
+    E3["Entrega 3 (Upload Logotipo - Semana 8 - C)"]:::laranja --> 
+    E4["Entrega 4 (Relatórios PDF/Excel - Semana 10 - E)"]:::laranja --> 
+    E5["Entrega 5 (Painel Admin - Semana 12 - D)"]:::vermelho --> 
+    EF["Entrega Final (Sistema Completo - Mês 6 - V)"]:::vermelho
   end
 
   %% Definições de estilo
@@ -14,6 +14,7 @@ graph TD
   classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
   classDef laranja fill:#FFA233,stroke:#000,stroke-width:1px;
   classDef vermelho fill:#E64C3C,stroke:#000,stroke-width:1px;
+
 ```
 
 
