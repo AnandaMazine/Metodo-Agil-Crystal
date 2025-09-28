@@ -2,9 +2,9 @@
 
 ```mermaid
 graph TD
-    E1["Levantamento de Requisitos - Semana 1"]:::branco
-    E2["Documentação Funcional - Semana 2"]:::branco
-    E3["Layout do Sistema - Semana 2"]:::branco
+    E1["Levantamento de Requisitos - Semana 1 E"]:::branco
+    E2["Documentação Funcional - Semana 2 E"]:::branco
+    E3["Layout do Sistema - Semana 2 C"]:::branco
     E4["Entrega 1 - Login - Semana 3 - E"]:::branco
     E5["Entrega 2 - CRUD - Semana 6 - C"]:::amarelo
     E6["Entrega 3 - Upload - Semana 8 - C"]:::laranja
