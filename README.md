@@ -1,8 +1,8 @@
 ```mermaid
 graph TD
-A1["Projeto, E50"]:::laranja
+A1["Projeto, D50"]:::amarelo
 
-classDef laranja fill:#FFD80D,stroke:#000,stroke-width:1px;
+classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
 ```
 #TechConnect Solutions
 
