@@ -1,7 +1,7 @@
 graph TD
-A1["Delivery de Comida, D50 (Equipe: 12)"]:::laranja
+A1["Projeto, D50"]:::laranja
 
-classDef laranja fill:#FFA500,stroke:#000,stroke-width:1px;
+classDef laranja fill:#FFD80D,stroke:#000,stroke-width:1px;
 
 #TechConnect Solutions
 
