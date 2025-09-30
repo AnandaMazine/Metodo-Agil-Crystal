@@ -1,12 +1,8 @@
-#Delivery de Comida
-
-```mermaid
 graph TD
-A1["Projeto, D20"]:::amarelo
+A1["Delivery de Comida, D50 (Equipe: 12)"]:::laranja
 
-classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
+classDef laranja fill:#FFA500,stroke:#000,stroke-width:1px;
 
-```
 #TechConnect Solutions
 
 ```mermaid
