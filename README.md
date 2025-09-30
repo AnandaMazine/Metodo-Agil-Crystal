@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-A1["Projeto, D50"]:::laranja
+A1["Projeto, E50"]:::laranja
 
 classDef laranja fill:#FFD80D,stroke:#000,stroke-width:1px;
 ```
