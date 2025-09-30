@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD
-A1["Projeto de delivery de comida"]:::amarelo
+A1["Projeto, D20"]:::amarelo
 
 classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
 
